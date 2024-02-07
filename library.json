@@ -1,14 +1,14 @@
 {
     "authors": {
-        "name": "Pierre Coueffin",
+        "name": "Pierre Coueffin"
     },
     "description": "Took Remco Bloemen's MD5 lib, altered the library.json to make it work with ESP-idf.  In principle, it would work anywhere.",
     "frameworks": "*",
-    "keywords": [MD5, hash, cryptographic, integrity],
+    "keywords": ["MD5", "hash", "cryptographic", "integrity"],
     "name": "MD5-ESPIDF",
     "platforms": "*",
     "repository": {
         "type": "git",
         "url": "https://github.com/PierreCoueffin/MD5-ESPIDF"
-    },
+    }
 }
